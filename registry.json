@@ -3,5 +3,6 @@
   "description": "Official Mire package registry",
   "protocol": 1,
   "url": "https://github.com/mire-lang/reg",
-  "url-raw": "https://raw.githubusercontent.com/mire-lang/reg/master/mor"
+  "url-raw": "https://raw.githubusercontent.com/mire-lang/reg/master/mor",
+  "public-key": "MCowBQYDK2VwAyEAkj/5fcvMSJssa/50dCFzjctZQNj7qh0FrlG5zRW8Omc="
 }
