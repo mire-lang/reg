@@ -1,0 +1,18 @@
+[registry]
+name = "mor"
+version = "1"
+format = "owl-registry-v1"
+official = true
+description = "Mire Official Registry"
+
+[source]
+type = "local"
+root = "./registry/mor"
+
+[security]
+algorithm = "ed25519"
+require-sha256 = false
+require-sha512 = false
+require-any-sha = true
+signed-index = true
+public-key = ""

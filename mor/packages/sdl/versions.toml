@@ -1,0 +1,10 @@
+[[release]]
+name = "sdl"
+version = "1.3.0"
+repository = "https://github.com/Evelynx-Dev/SDL.git"
+commit = "1bca3ec1c6e4371a571aeab65aeb4c1cfd10acfd"
+abi = "mire"
+status = "catalog-only"
+sha256 = ""
+sha512 = ""
+signature = ""

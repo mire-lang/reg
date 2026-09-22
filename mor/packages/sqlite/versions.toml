@@ -1,0 +1,9 @@
+[[release]]
+name = "sqlite"
+version = "0.1.0"
+source = "local-simulation"
+abi = "c"
+status = "simulated"
+sha256 = ""
+sha512 = ""
+signature = ""

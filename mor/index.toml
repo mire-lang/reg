@@ -1,0 +1,50 @@
+# Local MOR catalog. Entries without archive hashes are catalog-only and must
+# not be installed until a signed publish.toml is generated.
+
+version = 1
+generated-by = "owl registry"
+
+[[package]]
+name = "kioto"
+version = "2.4.9"
+source = "github"
+repository = "https://github.com/Evelynx-Dev/Kioto-1.git"
+commit = "75e25da9c5a75cceabfc6cc65400d7c86f0c4856"
+abi = "mire"
+status = "catalog-only"
+
+[[package]]
+name = "mire"
+version = "0.0.7"
+source = "github"
+repository = "https://github.com/Evelynx-Dev/mire-lib.git"
+commit = "a60f60eed388f9fb3245b3066a264fa3886f42df"
+abi = "mire"
+status = "catalog-only"
+
+[[package]]
+name = "sdl"
+version = "1.3.0"
+source = "github"
+repository = "https://github.com/Evelynx-Dev/SDL.git"
+commit = "1bca3ec1c6e4371a571aeab65aeb4c1cfd10acfd"
+abi = "mire"
+status = "catalog-only"
+
+[[package]]
+name = "sqlite"
+version = "0.1.0"
+source = "local-simulation"
+repository = ""
+commit = ""
+abi = "c"
+status = "simulated"
+
+[[package]]
+name = "wasm"
+version = "0.1.0"
+source = "local-simulation"
+repository = ""
+commit = ""
+abi = "mire"
+status = "simulated"

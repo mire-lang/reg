@@ -1,0 +1,10 @@
+[[release]]
+name = "mire"
+version = "0.0.7"
+repository = "https://github.com/Evelynx-Dev/mire-lib.git"
+commit = "a60f60eed388f9fb3245b3066a264fa3886f42df"
+abi = "mire"
+status = "catalog-only"
+sha256 = ""
+sha512 = ""
+signature = ""

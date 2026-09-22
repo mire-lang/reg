@@ -1,0 +1,10 @@
+[[release]]
+name = "kioto"
+version = "2.4.9"
+repository = "https://github.com/Evelynx-Dev/Kioto-1.git"
+commit = "75e25da9c5a75cceabfc6cc65400d7c86f0c4856"
+abi = "mire"
+status = "catalog-only"
+sha256 = ""
+sha512 = ""
+signature = ""

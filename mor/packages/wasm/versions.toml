@@ -1,0 +1,9 @@
+[[release]]
+name = "wasm"
+version = "0.1.0"
+source = "local-simulation"
+abi = "mire"
+status = "simulated"
+sha256 = ""
+sha512 = ""
+signature = ""
