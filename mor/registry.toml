@@ -1,18 +1,25 @@
+# MOR (Mire Official Registry) configuration
+
 [registry]
-name = "mor"
-version = "1"
-format = "owl-registry-v1"
-official = true
-description = "Mire Official Registry"
+name = "MOR"
+description = "Official Mire package registry"
+url = "https://github.com/mire-lang/reg"
+url-raw = "https://raw.githubusercontent.com/mire-lang/reg/master/mor"
 
-[source]
-type = "local"
-root = "./registry/mor"
+[keys]
+# ED25519 public keys for signature verification
+# Add keys with: owl registry add-key <name> <public-key>
 
-[security]
-algorithm = "ed25519"
-require-sha256 = false
-require-sha512 = false
-require-any-sha = true
-signed-index = true
-public-key = ""
+[packages]
+# Package inclusion rules
+# include = ["*"]
+# exclude = []
+
+[mirror]
+# Mirror configuration for faster downloads
+# mirrors = ["https://mirror.example.com/mor"]
+
+[audit]
+# Security audit settings
+# scan-on-publish = true
+# scan-on-install = true

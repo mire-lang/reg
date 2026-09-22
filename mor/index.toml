@@ -6,28 +6,28 @@ generated-by = "owl registry"
 
 [[package]]
 name = "kioto"
-version = "2.4.9"
+version = "2.5.0"
 source = "github"
 repository = "https://github.com/Evelynx-Dev/Kioto-1.git"
-commit = "75e25da9c5a75cceabfc6cc65400d7c86f0c4856"
+commit = "a44b141"
 abi = "mire"
 status = "catalog-only"
 
 [[package]]
 name = "mire"
-version = "0.0.7"
+version = "1.0.0"
 source = "github"
 repository = "https://github.com/Evelynx-Dev/mire-lib.git"
-commit = "a60f60eed388f9fb3245b3066a264fa3886f42df"
+commit = "b5a23b4"
 abi = "mire"
 status = "catalog-only"
 
 [[package]]
 name = "sdl"
-version = "1.3.0"
+version = "1.3.1"
 source = "github"
 repository = "https://github.com/Evelynx-Dev/SDL.git"
-commit = "1bca3ec1c6e4371a571aeab65aeb4c1cfd10acfd"
+commit = "e06e244"
 abi = "mire"
 status = "catalog-only"
 
